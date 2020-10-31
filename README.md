@@ -1,3 +1,3 @@
-# React primitive Tailwind and framer motion Starter
+# RV Joy Remake
 
-clone/download and install and start it
+[Live Demo](https://redvelvet-joy-remake.netlify.app/)
